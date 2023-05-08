@@ -1,2 +1,2 @@
 # Markdown-Images
-Store images for use in Markdown
+Store images for using in Markdown
